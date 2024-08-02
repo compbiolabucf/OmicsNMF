@@ -1,4 +1,4 @@
-# OmicsGAN
+# OmicsNMF
 OmicsNMF is a generative adversarial network based framework that can impute a target omics from the source omics designed with a novel objective function the utilizes non negative matrix factorization.
 
 
